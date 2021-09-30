@@ -16,28 +16,7 @@ h1 {
     border-bottom: 1px solid black;
 }
 
-.col-2 {
-    border-top: 1px solid black;
-    border-left: .5px solid black;
-    border-right: .5px solid black;
-    border-bottom: 1px solid black;
-}
-
-.col-3 {
-    border-top: 1px solid black;
-    border-left: .5px solid black;
-    border-right: .5px solid black;
-    border-bottom: 1px solid black;
-}
-
-.col-4 {
-    border-top: 1px solid black;
-    border-left: .5px solid black;
-    border-right: .5px solid black;
-    border-bottom: 1px solid black;
-}
-
-.col-5 {
+.col-2, .col-3, .col-4, .col-5 {
     border-top: 1px solid black;
     border-left: .5px solid black;
     border-right: .5px solid black;

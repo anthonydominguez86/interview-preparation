@@ -1,1 +1,5 @@
-console.log ("Hello, Node")
+function sayHi(name){
+console.log ("Hello," + name);
+}
+
+sayHi(" Anthony")

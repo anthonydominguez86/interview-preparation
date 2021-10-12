@@ -50,5 +50,4 @@ function Character(name, type, age, strength, hitpoints) {
   warrior.isAlive(); // => Crusher is still alive!
   
   rogue.levelUp();
-  rogue.printStats(); // => Dodger HitPoints: 75
-  
+  rogue.printStats(); // => Dodger HitPoints: 75  
